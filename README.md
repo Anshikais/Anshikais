@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anshika Parmar and I'm a Btech Second Year student , from Lucknow.</p>
+<p align="left">My name is Anshika Parmar and I'm a Btech Third Year student , from Lucknow.</p>
 
 ###
 
@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Full-Stack Web Development & DSA in Java  <br>🎯 Goals: Become a confident developer, crack coding interviews, and contribute to open-source  <br>🎲 Fun fact: I once fixed a bug by accidentally refreshing the browser 😄</p>
 
 ###
-<h2 align="left"> Languages : Java, Python </h2>
+<h2 align="left"> Languages : Java, Python, html5,CSS3, JavaScript, React </h2>
 <h2 align="left">I code with </h2>
 
 ###
